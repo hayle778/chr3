@@ -11,20 +11,19 @@ public class Employee {
     private String enddate = "";
     private String jobdescription = "";
 
-    public Employee() {}
+    public Employee() {
+    }
 
 
-    public
-        Employee(String name, String email_address, String company, String job_title, String start_date, String end_date, String job_description)
-        {
-            this.name = name;
-            this.emailaddress = emailaddress;
-            this.company = company;
-            this.jobtitle = jobtitle;
-            this.startdate = startdate;
-            this.enddate = enddate;
-            this.jobdescription = jobdescription;
-        }
+    public Employee(String name , String email_address , String company , String job_title , String start_date , String end_date , String job_description) {
+        this.name = name;
+        this.emailaddress = emailaddress;
+        this.company = company;
+        this.jobtitle = jobtitle;
+        this.startdate = startdate;
+        this.enddate = enddate;
+        this.jobdescription = jobdescription;
+    }
 
 
     public String getName() {
@@ -83,20 +82,20 @@ public class Employee {
         this.jobdescription = jobdescription;
     }
 
-    public String getDisplayText () {
+   public String getDisplayText () {
         return " name:" + getName() +
-                "\n emailaddress:" + getEmailaddress() +
-                "\n  company:" + getCompany() +
-                "\n jobtitle:" + getJobtitle() +
-                "\n startdate:" + getStartdate() +
-                "\n enddate:" + getEnddate() +
-                "\n jobdescription:" + getJobdescription() +
+               "\n emailaddress:" + getEmailaddress() +
+             "\n  company:" + getCompany() +
+               "\n jobtitle:" + getJobtitle() +
+               "\n startdate:" + getStartdate() +
+              "\n enddate:" + getEnddate() +
+               "\n jobdescription:" + getJobdescription() +
                 " ";
     }
 
 
 
-}
+  }
 
 
 

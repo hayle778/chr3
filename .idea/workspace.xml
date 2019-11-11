@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1d7545a-5c0c-4de0-9308-30236fbcd456" name="Default Changelist" comment="" />
+    <list default="true" id="c1d7545a-5c0c-4de0-9308-30236fbcd456" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chall3/com/company/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chall3/com/company/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chall3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chall3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +35,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -83,7 +89,11 @@
       <workItem from="1573426419972" duration="1793000" />
       <workItem from="1573428243339" duration="1788000" />
       <workItem from="1573431476899" duration="1729000" />
-      <workItem from="1573433427706" duration="595000" />
+      <workItem from="1573433427706" duration="1021000" />
+      <workItem from="1573439055443" duration="1780000" />
+      <workItem from="1573440869062" duration="1746000" />
+      <workItem from="1573442784618" duration="1788000" />
+      <workItem from="1573444595668" duration="244000" />
     </task>
     <servers />
   </component>
