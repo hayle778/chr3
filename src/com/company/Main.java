@@ -70,8 +70,10 @@ import java.util.Scanner;
            // System.out.println( "Do you want to create employee list \n enter yes/ no ?" );
 
 
+            System.out.println( "************* Resume ***************" );
+            System.out.println("..........");
 
-         System.out.println("Enter name: " + employee.getName() +" \n\n Enter emailaddress: " + employee.getEmailaddress() + "\n Enter company: " + employee.getCompany() + "\n  Enter jobtitle:" + employee.getJobtitle() +
+         System.out.println("Enter name: " + employee.getName() +" \n Enter emailaddress: " + employee.getEmailaddress() + "\n Enter company: " + employee.getCompany() + "\n  Enter jobtitle:" + employee.getJobtitle() +
                     "\n Enter start date:" + employee.getStartdate() + "\n  Enter end date :" + employee.getEnddate() + "\n Enter job description :"+ employee.getJobdescription());
 
 
